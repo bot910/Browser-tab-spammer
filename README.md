@@ -1,4 +1,2 @@
-# browsercrasher
-A website that tries to crash the browser
-
-Just a fun project i made to test out.
+# Window spammer (outdated)
+Just a website that opens as many tabs
